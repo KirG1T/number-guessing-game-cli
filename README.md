@@ -1,6 +1,6 @@
 # Number Guessing Game CLI
 
-You need to create a simple number guessing game where the computer randomly picks a number, and the player tries to guess it within a limited number of attempts. The game ends when the player guesses correctly or runs out of chances.
+Try your luck in this number guessing game! The computer picks a random number, and you have a few chances to find out what it is.
 
 Project page URL:
 https://roadmap.sh/projects/number-guessing-game
